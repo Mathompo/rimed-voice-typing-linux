@@ -1,5 +1,7 @@
 # Rimed Voice Typing for Linux
 
+> 中文用户请看 [README.zh.md](README.zh.md)
+
 Fast, accurate voice typing for Linux with IBus atomic text insertion, two-pass streaming STT, and CUDA acceleration. Works on Wayland and X11 — in terminals, browsers, and every app.
 
 ## Features
