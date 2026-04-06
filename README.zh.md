@@ -103,7 +103,7 @@ export RIME_SCHEMA=double_pinyin
 | `RIME_USER_DIR` | `~/.config/ibus/rime` | Rime 用户数据目录 |
 | `RIME_SHARED_DIR` | `/usr/share/rime-data` | Rime 共享数据目录（一般不需要改） |
 
-**已知限制：** `;` 键不会转发给 Rime。微软双拼用 `;` 输入 `ün` 的用户请换用自然码（`double_pinyin`）或其他不占用 `;` 的方案。
+**已知限制：** `;` 键不会转发给 Rime。微软双拼用 `;` 输入 `ing` 的用户请换用自然码（`double_pinyin`）或其他不占用 `;` 的方案。
 
 ## 常用参数
 ```bash
